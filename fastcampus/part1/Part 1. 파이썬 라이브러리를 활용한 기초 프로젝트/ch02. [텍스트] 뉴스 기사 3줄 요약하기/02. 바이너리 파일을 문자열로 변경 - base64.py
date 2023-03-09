@@ -1,8 +1,5 @@
-import base64
-
-
-path = "./img/0005303739_001_20220828154501895.jpg"
-
+import base64_exp
+path = "img/0005303739_001_20220828154501895.jpg"
 
 # 바이너리 파일 읽기
 with open(path, 'rb') as img:
