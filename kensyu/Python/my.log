@@ -2,3 +2,6 @@
 2023-03-08 17:11:07,235 - root - WARNING - Unformatted Date
 2023-03-08 17:52:59,757 - root - WARNING - input wrong code
 2023-03-08 17:53:20,787 - root - WARNING - Unformatted Date
+2023-03-09 11:36:08,728 - root - WARNING - Unformatted Date
+2023-03-09 15:06:06,396 - root - WARNING - Unformatted Date
+2023-03-09 15:10:24,396 - root - WARNING - ValueError: Invalid date format. Please input a date between 1900-01-01 and 2100-12-31
